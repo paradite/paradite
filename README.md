@@ -1,4 +1,4 @@
-I am Zhu Liang.
+Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
