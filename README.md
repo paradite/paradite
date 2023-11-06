@@ -2,6 +2,8 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
+📝 **[16x Prompt](https://prompt.16x.engineer/)** - Compose prompt for coding tasks
+
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
 📒 **[SG Tech List](https://paradite.github.io/sg-tech-list/)** - List of notable tech companies in Singapore
