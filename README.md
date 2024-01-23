@@ -2,6 +2,8 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
+🎮 **[Palworld Game Guides](https://palworld.paradite.com/)** - Website for Palworld Game Guides
+
 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Compose prompt for coding tasks
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
