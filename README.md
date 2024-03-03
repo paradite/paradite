@@ -2,8 +2,6 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-🎮 **[Palworld Game Guides](https://palworld.paradite.com/)** - Website for Palworld Game Guides
-
 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Compose prompt for coding tasks
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
@@ -16,3 +14,7 @@ Check out my recent projects:
 - **[AI Simulator: Block Puzzle](https://ai-simulator.com/block/)** - Classic Block Puzzle Game with AI
 
 💰 **[Retire 35](https://retire35.com/)** - Guide and planning tools for retiring at 35
+
+Past 🪦:
+
+🎮 **[Palworld Game Guides](https://palworld.paradite.com/)** - Website for Palworld Game Guides
