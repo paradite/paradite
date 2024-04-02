@@ -2,7 +2,7 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-📝 **[16x Prompt](https://prompt.16x.engineer/)** - Compose prompt for coding tasks
+📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamlining ChatGPT for Developers
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
