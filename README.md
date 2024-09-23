@@ -2,7 +2,8 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamlined ChatGPT for Coding
+📝 **[16x Prompt](https://prompt.16x.engineer/)** - 
+Streamline AI Coding Workflow
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
