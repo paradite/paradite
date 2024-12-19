@@ -2,7 +2,7 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track, Filter, and Organize Reddit Keyword Hits
+🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 
 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
 
