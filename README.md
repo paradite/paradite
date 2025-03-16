@@ -5,6 +5,7 @@ Check out my recent projects:
 📰 **[The Ground Truth](https://thegroundtruth.substack.com/)** - My newsletter on AI and software engineering
 
 - **[Devin - First Impressions](https://thegroundtruth.substack.com/p/devin-first-impressions)** - My first impressions review of Devin
+- **[The Ground Truth Weekly - Effective Context Length and Block Diffusion](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)**
 
 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 
