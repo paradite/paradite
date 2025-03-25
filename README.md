@@ -6,6 +6,7 @@ Check out my recent projects:
 
 - **[Devin - First Impressions](https://thegroundtruth.substack.com/p/devin-first-impressions)** - My first impressions review of Devin
 - **[The Ground Truth Weekly 1](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)** - Effective Context Length and Block Diffusion
+- **[The Ground Truth Weekly 2](https://thegroundtruth.substack.com/p/vibe-coding-cursor-tips-eval-aware-ai)** - Vibe Coding Tips and Eval-Aware AI
 
 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 
