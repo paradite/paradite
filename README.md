@@ -4,9 +4,10 @@ Check out my recent projects:
 
 📰 **[The Ground Truth](https://thegroundtruth.substack.com/)** - My newsletter on AI and software engineering
 
-- **[Devin - First Impressions](https://thegroundtruth.substack.com/p/devin-first-impressions)** - My first impressions review of Devin
-- **[The Ground Truth Weekly 1](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)** - Effective Context Length and Block Diffusion
-- **[The Ground Truth Weekly 2](https://thegroundtruth.substack.com/p/vibe-coding-cursor-tips-eval-aware-ai)** - Vibe Coding Tips and Eval-Aware AI
+- **[Devin - First Impressions](https://thegroundtruth.substack.com/p/devin-first-impressions)**
+- **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)**
+- **[Weekly: Vibe Coding Tips and Eval-Aware AI](https://thegroundtruth.substack.com/p/vibe-coding-cursor-tips-eval-aware-ai)**
+- **[Weekly: How LLMs Think and How to Add Search to AI](https://thegroundtruth.substack.com/p/llm-think-ai-interpretability-anthropic-search-api-mcp)**
 
 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 
