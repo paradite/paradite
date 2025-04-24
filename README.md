@@ -8,10 +8,13 @@ Check out my recent projects:
 - **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)**
 - **[Weekly: Vibe Coding Tips and Eval-Aware AI](https://thegroundtruth.substack.com/p/vibe-coding-cursor-tips-eval-aware-ai)**
 - **[Weekly: How LLMs Think and How to Add Search to AI](https://thegroundtruth.substack.com/p/llm-think-ai-interpretability-anthropic-search-api-mcp)**
+- **[How We Got Here - AI Timeline from 2015 to 2024](https://thegroundtruth.substack.com/p/how-we-got-here-ai-timeline-2015-2024)**
 
-🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
+16x AI Products
 
-📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
+- ⚖️ **[16x Eval](https://eval.16x.engineer/)** - Effortlessly evaluate prompts and models
+- 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
+- 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
