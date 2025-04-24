@@ -1,5 +1,7 @@
 Hi, I am Zhu Liang.
 
+> [LLM-friendly version](https://paradite.com/me.txt)
+
 Check out my recent projects:
 
 📰 **[The Ground Truth](https://thegroundtruth.substack.com/)** - My newsletter on AI and software engineering
