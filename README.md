@@ -18,6 +18,7 @@ Check out my recent projects:
 - **[Weekly: How LLMs Think and How to Add Search to AI](https://thegroundtruth.substack.com/p/llm-think-ai-interpretability-anthropic-search-api-mcp)**
 - **[How We Got Here - AI Timeline from 2015 to 2024](https://thegroundtruth.substack.com/p/how-we-got-here-ai-timeline-2015-2024)**
 - **[My Claude Code Workflow And Personal Tips](https://thegroundtruth.substack.com/p/my-claude-code-workflow-and-personal-tips)**
+- **[How Is Claude Code Different From Cursor?](https://thegroundtruth.substack.com/p/claude-code-difference-from-cursor)**
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
