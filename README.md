@@ -19,6 +19,7 @@ Check out my recent projects:
 - **[How We Got Here - AI Timeline from 2015 to 2024](https://thegroundtruth.substack.com/p/how-we-got-here-ai-timeline-2015-2024)**
 - **[My Claude Code Workflow And Personal Tips](https://thegroundtruth.substack.com/p/my-claude-code-workflow-and-personal-tips)**
 - **[How Is Claude Code Different From Cursor?](https://thegroundtruth.substack.com/p/claude-code-difference-from-cursor)**
+- **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-input-context)**
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
