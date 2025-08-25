@@ -4,6 +4,10 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
+16x AI Coding Livestream:
+
+- 📺 **[16x YouTube channel](https://www.youtube.com/@16x.engineer)**
+
 16x AI Products
 
 - ⚖️ **[16x Eval](https://eval.16x.engineer/)** - Effortlessly evaluate prompts and models
@@ -20,6 +24,7 @@ Check out my recent projects:
 - **[My Claude Code Workflow And Personal Tips](https://thegroundtruth.substack.com/p/my-claude-code-workflow-and-personal-tips)**
 - **[How Is Claude Code Different From Cursor?](https://thegroundtruth.substack.com/p/claude-code-difference-from-cursor)**
 - **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-input-context)**
+- **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-tools-agents)**
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
