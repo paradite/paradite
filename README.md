@@ -4,9 +4,12 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-16x AI Coding Livestream:
+16x Livestreams:
 
-- 📺 **[16x YouTube channel](https://www.youtube.com/@16x.engineer)**
+- 📺 **[YouTube channel](https://www.youtube.com/@16x.engineer)**
+  - **[Playlist - AI Coding Livestreams](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8neceDcCY2Oo229_YITaTg)**
+  - **[Playlist - How AI Works](https://www.youtube.com/playlist?list=PLLjmSfFCuCx89WzMHFjnd2uPGssX8kP6I)**
+  - **[Playlist - Model Testing & Evaluation](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8Fj-6LvXitHQoSCk80euid)**
 
 16x AI Products
 
@@ -26,17 +29,23 @@ Check out my recent projects:
 - **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-input-context)**
 - **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-tools-agents)**
 
+Lists:
+
+- 📒 **[SG Tech List](https://paradite.github.io/sg-tech-list/)** - List of notable tech companies in Singapore
+- 📜 **[Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)** - Encyclopedia of frontend technologies
+- 🎦 **[GitHub Dramas](https://github.com/paradite/github-dramas)** - Collection of dramas on GitHub (and else where)
+- 🔮 **[Claude Code is All You Need](https://github.com/paradite/claude-code-is-all-you-need)** - Curated list of non-coding use cases for Claude Code
+
+Past 🪦:
+
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
-📒 **[SG Tech List](https://paradite.github.io/sg-tech-list/)** - List of notable tech companies in Singapore
-
 🤖 **[AI Simulator](https://ai-simulator.com/)** - AI simulation games on mobile phones
+
 - **[AI Simulator: 2048](https://ai-simulator.com/2048/)** - Control AI to play 2048
 - **[AI Simulator: Robot](https://ai-simulator.com/robot/)** - Robot-themed AI simulation game
 - **[AI Simulator: Block Puzzle](https://ai-simulator.com/block/)** - Classic Block Puzzle Game with AI
 
 💰 **[Retire 35](https://retire35.com/)** - Guide and planning tools for retiring at 35
-
-Past 🪦:
 
 🎮 **[Palworld Game Guides](https://palworld.paradite.com/)** - Website for Palworld Game Guides
