@@ -6,10 +6,10 @@ Check out my recent projects:
 
 16x Livestreams:
 
-- 📺 **[YouTube channel](https://www.youtube.com/@16x.engineer)**
-  - **[Playlist - AI Coding Livestreams](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8neceDcCY2Oo229_YITaTg)**
-  - **[Playlist - How AI Works](https://www.youtube.com/playlist?list=PLLjmSfFCuCx89WzMHFjnd2uPGssX8kP6I)**
-  - **[Playlist - Model Testing & Evaluation](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8Fj-6LvXitHQoSCk80euid)**
+- 📺 **[16x YouTube channel](https://www.youtube.com/@16x.engineer)**
+- ▶️ **[Playlist - AI Coding Livestreams](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8neceDcCY2Oo229_YITaTg)**
+- ▶️ **[Playlist - How AI Works](https://www.youtube.com/playlist?list=PLLjmSfFCuCx89WzMHFjnd2uPGssX8kP6I)**
+- ▶️ **[Playlist - Model Testing & Evaluation](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8Fj-6LvXitHQoSCk80euid)**
 
 16x AI Products
 
