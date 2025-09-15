@@ -11,13 +11,13 @@ Check out my recent projects:
 - ▶️ **[Playlist - How AI Works](https://www.youtube.com/playlist?list=PLLjmSfFCuCx89WzMHFjnd2uPGssX8kP6I)**
 - ▶️ **[Playlist - Model Testing & Evaluation](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8Fj-6LvXitHQoSCk80euid)**
 
-16x AI Products
+16x AI Products:
 
 - ⚖️ **[16x Eval](https://eval.16x.engineer/)** - Effortlessly evaluate prompts and models
 - 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 - 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
 
-📰 **[The Ground Truth](https://thegroundtruth.substack.com/)** - My newsletter on AI and software engineering
+**[The Ground Truth Newsletter](https://thegroundtruth.substack.com/)** - My newsletter on AI and software engineering:
 
 - **[Devin - First Impressions](https://thegroundtruth.substack.com/p/devin-first-impressions)**
 - **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)**
@@ -29,7 +29,7 @@ Check out my recent projects:
 - **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-input-context)**
 - **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-tools-agents)**
 
-Lists:
+Popular Lists:
 
 - 📒 **[SG Tech List](https://paradite.github.io/sg-tech-list/)** - List of notable tech companies in Singapore
 - 📜 **[Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)** - Encyclopedia of frontend technologies
