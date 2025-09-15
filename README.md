@@ -13,7 +13,8 @@ Check out my recent projects:
 
 16x AI Products:
 
-- ⚖️ **[16x Eval](https://eval.16x.engineer/)** - Effortlessly evaluate prompts and models
+- ⚖️ **[16x Eval](https://eval.16x.engineer/)** - The Simplest Way to Test Models and Prompts
+- ✍️ **[16x Writer](https://writer.16x.engineer/)** - Write Helpful Blog Posts That Drive Results
 - 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 - 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
 
