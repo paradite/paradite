@@ -29,6 +29,8 @@ Check out my recent projects:
 - **[How Is Claude Code Different From Cursor?](https://thegroundtruth.substack.com/p/claude-code-difference-from-cursor)**
 - **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-input-context)**
 - **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-tools-agents)**
+- **[LLMs Work. The Problem is Translation.](https://thegroundtruth.substack.com/p/llms-work-the-problem-is-translation)**
+- **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.substack.com/p/ai-agent-patterns)**
 
 Popular Lists:
 
