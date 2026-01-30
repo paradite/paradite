@@ -18,19 +18,19 @@ Check out my recent projects:
 - 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
 - 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
 
-**[The Ground Truth Newsletter](https://thegroundtruth.substack.com/)** - My newsletter on AI and software engineering:
+**[The Ground Truth Newsletter](https://thegroundtruth.media/)** - My newsletter on AI and software engineering:
 
-- **[Devin - First Impressions](https://thegroundtruth.substack.com/p/devin-first-impressions)**
-- **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.substack.com/p/the-ground-truth-weekly-effective)**
-- **[Weekly: Vibe Coding Tips and Eval-Aware AI](https://thegroundtruth.substack.com/p/vibe-coding-cursor-tips-eval-aware-ai)**
-- **[Weekly: How LLMs Think and How to Add Search to AI](https://thegroundtruth.substack.com/p/llm-think-ai-interpretability-anthropic-search-api-mcp)**
-- **[How We Got Here - AI Timeline from 2015 to 2024](https://thegroundtruth.substack.com/p/how-we-got-here-ai-timeline-2015-2024)**
-- **[My Claude Code Workflow And Personal Tips](https://thegroundtruth.substack.com/p/my-claude-code-workflow-and-personal-tips)**
-- **[How Is Claude Code Different From Cursor?](https://thegroundtruth.substack.com/p/claude-code-difference-from-cursor)**
-- **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-input-context)**
-- **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.substack.com/p/effectiveness-of-ai-coding-techniques-tools-agents)**
-- **[LLMs Work. The Problem is Translation.](https://thegroundtruth.substack.com/p/llms-work-the-problem-is-translation)**
-- **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.substack.com/p/ai-agent-patterns)**
+- **[Devin - First Impressions](https://thegroundtruth.media/p/devin-first-impressions)**
+- **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.media/p/the-ground-truth-weekly-effective)**
+- **[Weekly: Vibe Coding Tips and Eval-Aware AI](https://thegroundtruth.media/p/vibe-coding-cursor-tips-eval-aware-ai)**
+- **[Weekly: How LLMs Think and How to Add Search to AI](https://thegroundtruth.media/p/llm-think-ai-interpretability-anthropic-search-api-mcp)**
+- **[How We Got Here - AI Timeline from 2015 to 2024](https://thegroundtruth.media/p/how-we-got-here-ai-timeline-2015-2024)**
+- **[My Claude Code Workflow And Personal Tips](https://thegroundtruth.media/p/my-claude-code-workflow-and-personal-tips)**
+- **[How Is Claude Code Different From Cursor?](https://thegroundtruth.media/p/claude-code-difference-from-cursor)**
+- **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-input-context)**
+- **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-tools-agents)**
+- **[LLMs Work. The Problem is Translation.](https://thegroundtruth.media/p/llms-work-the-problem-is-translation)**
+- **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.media/p/ai-agent-patterns)**
 
 Popular Lists:
 
