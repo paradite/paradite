@@ -31,6 +31,7 @@ Check out my recent projects:
 - **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-tools-agents)**
 - **[LLMs Work. The Problem is Translation.](https://thegroundtruth.media/p/llms-work-the-problem-is-translation)**
 - **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.media/p/ai-agent-patterns)**
+- **[Why Anthropic Will Win the Race to the Top](https://thegroundtruth.media/p/why-anthropic-will-win-the-race)**
 
 Popular Lists:
 
