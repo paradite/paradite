@@ -4,13 +4,6 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-16x Livestreams:
-
-- 📺 **[16x YouTube channel](https://www.youtube.com/@16x.engineer)**
-- ▶️ **[Playlist - AI Coding Livestreams](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8neceDcCY2Oo229_YITaTg)**
-- ▶️ **[Playlist - How AI Works](https://www.youtube.com/playlist?list=PLLjmSfFCuCx89WzMHFjnd2uPGssX8kP6I)**
-- ▶️ **[Playlist - Model Testing & Evaluation](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8Fj-6LvXitHQoSCk80euid)**
-
 16x AI Products:
 
 - ⚖️ **[16x Eval](https://eval.16x.engineer/)** - The Simplest Way to Test Models and Prompts
@@ -20,6 +13,7 @@ Check out my recent projects:
 
 **[The Ground Truth Newsletter](https://thegroundtruth.media/)** - My newsletter on AI and software engineering:
 
+Posts from 2025:
 - **[Devin - First Impressions](https://thegroundtruth.media/p/devin-first-impressions)**
 - **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.media/p/the-ground-truth-weekly-effective)**
 - **[Weekly: Vibe Coding Tips and Eval-Aware AI](https://thegroundtruth.media/p/vibe-coding-cursor-tips-eval-aware-ai)**
@@ -30,8 +24,11 @@ Check out my recent projects:
 - **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-input-context)**
 - **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-tools-agents)**
 - **[LLMs Work. The Problem is Translation.](https://thegroundtruth.media/p/llms-work-the-problem-is-translation)**
+
+Posts from 2026:
 - **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.media/p/ai-agent-patterns)**
 - **[Why Anthropic Will Win the Race to the Top](https://thegroundtruth.media/p/why-anthropic-will-win-the-race)**
+- **[Agents, Harness and Passing of Time](https://thegroundtruth.media/p/agents-harness-and-passing-of-time)**
 
 Popular Lists:
 
@@ -41,6 +38,13 @@ Popular Lists:
 - 🔮 **[Claude Code is All You Need](https://github.com/paradite/claude-code-is-all-you-need)** - Curated list of non-coding use cases for Claude Code
 
 Past 🪦:
+
+16x Livestreams:
+
+- 📺 **[16x YouTube channel](https://www.youtube.com/@16x.engineer)**
+- ▶️ **[Playlist - AI Coding Livestreams](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8neceDcCY2Oo229_YITaTg)**
+- ▶️ **[Playlist - How AI Works](https://www.youtube.com/playlist?list=PLLjmSfFCuCx89WzMHFjnd2uPGssX8kP6I)**
+- ▶️ **[Playlist - Model Testing & Evaluation](https://www.youtube.com/playlist?list=PLLjmSfFCuCx8Fj-6LvXitHQoSCk80euid)**
 
 📈 **[16x Engineer](https://16x.engineer/)** - Career progression and personal growth for software engineers
 
