@@ -29,6 +29,7 @@ Posts from 2026:
 - **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.media/p/ai-agent-patterns)**
 - **[Why Anthropic Will Win the Race to the Top](https://thegroundtruth.media/p/why-anthropic-will-win-the-race)**
 - **[Agents, Harness and Passing of Time](https://thegroundtruth.media/p/agents-harness-and-passing-of-time)**
+- **[Self-Coordinating Agents on Claude Code Cloud](https://thegroundtruth.media/p/self-coordinating-agents-on-claude)**
 
 Popular Lists:
 
