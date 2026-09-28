@@ -4,29 +4,17 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-16x AI Products:
-
-- ⚖️ **[16x Eval](https://eval.16x.engineer/)** - The Simplest Way to Test Models and Prompts
-- ✍️ **[16x Writer](https://writer.16x.engineer/)** - Write Helpful Blog Posts That Drive Results
-- 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
-- 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
-
 **[The Ground Truth Newsletter](https://thegroundtruth.media/)** - My newsletter on AI and software engineering:
 
-Posts from 2025:
+Selected Posts from 2025:
+
 - **[Devin - First Impressions](https://thegroundtruth.media/p/devin-first-impressions)**
-- **[Weekly: Effective Context Length and Block Diffusion](https://thegroundtruth.media/p/the-ground-truth-weekly-effective)**
-- **[Weekly: Vibe Coding Tips and Eval-Aware AI](https://thegroundtruth.media/p/vibe-coding-cursor-tips-eval-aware-ai)**
-- **[Weekly: How LLMs Think and How to Add Search to AI](https://thegroundtruth.media/p/llm-think-ai-interpretability-anthropic-search-api-mcp)**
 - **[How We Got Here - AI Timeline from 2015 to 2024](https://thegroundtruth.media/p/how-we-got-here-ai-timeline-2015-2024)**
 - **[My Claude Code Workflow And Personal Tips](https://thegroundtruth.media/p/my-claude-code-workflow-and-personal-tips)**
-- **[How Is Claude Code Different From Cursor?](https://thegroundtruth.media/p/claude-code-difference-from-cursor)**
-- **[Effectiveness of AI Coding Techniques: Input & Context](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-input-context)**
-- **[Effectiveness of AI Coding Techniques: Tools and Agents](https://thegroundtruth.media/p/effectiveness-of-ai-coding-techniques-tools-agents)**
 - **[LLMs Work. The Problem is Translation.](https://thegroundtruth.media/p/llms-work-the-problem-is-translation)**
 
-Posts from 2026:
-- **[6 Patterns for Building Workflow AI Agents](https://thegroundtruth.media/p/ai-agent-patterns)**
+Selected Posts from 2026:
+
 - **[Why Anthropic Will Win the Race to the Top](https://thegroundtruth.media/p/why-anthropic-will-win-the-race)**
 - **[Agents, Harness and Passing of Time](https://thegroundtruth.media/p/agents-harness-and-passing-of-time)**
 - **[Self-Coordinating Agents on Claude Code Cloud](https://thegroundtruth.media/p/self-coordinating-agents-on-claude)**
@@ -39,6 +27,13 @@ Popular Lists:
 - 🔮 **[Claude Code is All You Need](https://github.com/paradite/claude-code-is-all-you-need)** - Curated list of non-coding use cases for Claude Code
 
 Past 🪦:
+
+16x AI Products:
+
+- ⚖️ **[16x Eval](https://eval.16x.engineer/)** - The Simplest Way to Test Models and Prompts
+- ✍️ **[16x Writer](https://writer.16x.engineer/)** - Write Helpful Blog Posts That Drive Results
+- 🎯 **[16x Tracker](https://tracker.16x.engineer/)** - Track and Convert Reddit Keyword Hits
+- 📝 **[16x Prompt](https://prompt.16x.engineer/)** - Streamline AI Coding Workflow
 
 16x Livestreams:
 
