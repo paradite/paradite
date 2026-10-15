@@ -4,6 +4,8 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
+**[Frontier Log](https://frontierlog.ai/)** - The AI timeline from official sources
+
 **[The Ground Truth Newsletter](https://thegroundtruth.media/)** - My newsletter on AI and software engineering:
 
 Selected Posts from 2025:
