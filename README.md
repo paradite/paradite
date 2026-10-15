@@ -4,7 +4,7 @@ Hi, I am Zhu Liang.
 
 Check out my recent projects:
 
-**[AI Timeline](https://timeline.16x.engineer/)** - Major OpenAI and Anthropic releases, sourced from official announcements
+**[AI Timeline](https://timeline.16x.engineer/)** - Major AI events from official sources
 
 **[The Ground Truth Newsletter](https://thegroundtruth.media/)** - My newsletter on AI and software engineering:
 
